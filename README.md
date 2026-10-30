@@ -30,6 +30,18 @@ I'm continuously developing my skills and building projects to expand my knowled
 
 Academic and personal projects focused on technology, programming and data science.
 
+## Currently Learning
+
+- Machine Learning
+- SQL
+- Statistics
+- Data Visualization
+
+## Languages
+
+- Portuguese — Native
+- English — Intermediate
+
 ### Connect with Me
 
 * GitHub: github.com/graziellysantto
