@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.gif" width="100%" alt="Banner">
-</p>
+![Animação](./A84880EC-D1F1-4418-9627-23B2E69E7DA7.gif)
 
 # graziellysantto
 My personal GitHub profile
