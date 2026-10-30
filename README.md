@@ -14,6 +14,27 @@ I'm interested in technology, programming, data analysis and artificial intellig
 
 I'm continuously developing my skills and building projects to expand my knowledge.
 
+```python
+class Grazielly:
+
+    def __init__(self):
+        self.role = "Data Science Student"
+        self.location = "São Paulo, Brazil"
+
+        self.languages = [
+            "Python",
+            "SQL"
+        ]
+
+        self.interests = [
+            "Data Analysis",
+            "Machine Learning"
+        ]
+
+    def motto(self):
+        return "Turning data into meaningful insights."
+```
+
 ### Education
 
 * Data Science — 3rd semester
