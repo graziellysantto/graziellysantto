@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.gif" width="100%" alt="Banner">
+</p>
+
 # graziellysantto
 My personal GitHub profile
 # Grazielly dos Santos Costa
